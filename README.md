@@ -10,6 +10,7 @@
   4. [License](#License)
   ## Demo and Instructions
   [Live Demo](https://drive.google.com/file/d/11ZsDX3pGPoUw9QA2ASvYw1NSgu49CUtd/view?usp=sharing)
+  [Live Sample](https://drive.google.com/file/d/10IaconDm8HTMYsaHF6ThfZcn_tDAInqz/view?usp=sharing)
   Download files via github
   ## Technologies
   Node, Inquirer, Javascript
