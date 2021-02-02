@@ -1,0 +1,23 @@
+{
+    "name": "readme",
+    "version": "1.0.0",
+    "description": "Good README Generator",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shay Mathis",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^6.3.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mathisshayy/readme"
+    },
+    "keywords": [
+        "README",
+        "generator"
+    ],
+    "homepage": "https://github.com/mathisshayy/readme#readme"
+}
